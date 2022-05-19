@@ -1,0 +1,21 @@
+
+@media only screen and (max-width: 760px){
+    section{
+       font-size:1em;
+       width: 50%;
+   }
+}
+
+.navbar{
+    color: rgb(230,230.250);
+}
+
+.img1{
+    opacity: 0.5;
+}
+
+p{
+    font-family: 'Macondo', cursive;
+    font-family: 'Patrick Hand', cursive;
+}
+
